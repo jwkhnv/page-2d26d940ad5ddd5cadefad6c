@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d7d1e43917.guoguolv.cn/sitemap.xml
